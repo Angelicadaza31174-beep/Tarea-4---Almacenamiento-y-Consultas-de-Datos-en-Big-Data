@@ -1,8 +1,9 @@
 # Tarea 4 - Almacenamiento y Consultas de Datos en Big Data
 **Curso:** Big Data.  
 **Universidad Nacional Abierta y a Distancia UNAD**  
-**Estudiante:** Angelica Maria Daza Ochoa 
-**Tutor:** Handry Orozco - **07/05/2026**
+**Estudiante:** Angelica Maria Daza Ochoa
+**Tutor:** Handry Orozco -
+**Fecha 07/05/2026**
 
 ## Caso de uso
 Catálogo de productos de una tienda e-commerce con variantes (talla/color), reseñas y estadísticas de ventas.
