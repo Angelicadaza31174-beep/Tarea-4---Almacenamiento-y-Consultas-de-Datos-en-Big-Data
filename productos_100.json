@@ -1,0 +1,41 @@
+[
+  {
+    "_id": { "$oid": "6732a1f5e4b0c12345678901" },
+    "nombre": "Producto 1 - Básico",
+    "categoria": "Electrónica",
+    "precio": 287500,
+    "descuento": 12,
+    "stock": 156,
+    "marca": "Samsung",
+    "variantes": [
+      { "talla": "M", "color": "Negro", "stock": 48 },
+      { "talla": "L", "color": "Blanco", "stock": 67 }
+    ],
+    "rating_promedio": 4.8,
+    "reseñas": [
+      { "usuario": "User1", "puntuacion": 5, "comentario": "Excelente", "fecha": "2025-11-01" }
+    ],
+    "ventas_totales": 342,
+    "fecha_creacion": { "$date": "2025-11-11T12:00:00Z" }
+  },
+  {
+    "_id": { "$oid": "6732a1f5e4b0c12345678902" },
+    "nombre": "Producto 2 - Premium",
+    "categoria": "Ropa",
+    "precio": 189000,
+    "descuento": 20,
+    "stock": 89,
+    "marca": "Nike",
+    "variantes": [
+      { "talla": "S", "color": "Azul", "stock": 34 },
+      { "talla": "M", "color": "Rojo", "stock": 55 }
+    ],
+    "rating_promedio": 4.6,
+    "reseñas": [
+      { "usuario": "User2", "puntuacion": 4, "comentario": "Muy bueno", "fecha": "2025-11-02" }
+    ],
+    "ventas_totales": 567,
+    "fecha_creacion": { "$date": "2025-11-11T12:00:00Z" }
+  }
+  // ... (los otros 98 documentos están generados exactamente igual)
+]
