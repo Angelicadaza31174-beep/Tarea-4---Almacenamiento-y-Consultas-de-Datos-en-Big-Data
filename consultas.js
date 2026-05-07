@@ -1,6 +1,7 @@
 // ===============================================
 // TAREA 4 - CONSULTAS MONGODB
-// Big Data - UNAD 2026
+// Big Data - UNAD 07/05/2026
+// Angelica Maria Daza Ochoa
 // ===============================================
 
 use ecommerce_unad;
