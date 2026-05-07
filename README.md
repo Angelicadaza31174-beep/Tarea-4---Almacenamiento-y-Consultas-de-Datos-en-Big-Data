@@ -1,5 +1,5 @@
 # Tarea 4 - Almacenamiento y Consultas de Datos en Big Data
-**Curso:** Big Data - Código 202016911_83  
+**Curso:** Big Data.  
 **Universidad Nacional Abierta y a Distancia UNAD**  
 **Estudiante:** Angelica Maria Daza Ochoa 
 **Tutor:** Handry Orozco - **07/05/2026**
