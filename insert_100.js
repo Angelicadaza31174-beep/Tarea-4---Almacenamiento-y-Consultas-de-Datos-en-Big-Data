@@ -1,6 +1,7 @@
 // ===============================================
 // TAREA 4 - INSERTAR 100 PRODUCTOS
-// Big Data 202016911_83 - UNAD 2025
+// Big Data - UNAD 07/05/2026
+// Angelica Maria Daza Ochoa
 // ===============================================
 
 use ecommerce_unad;
